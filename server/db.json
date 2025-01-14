@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "email": "6988897@mail.ru",
+      "password": "$2a$10$uBNjoQo2LYIKOw15AOT3zuDx///mzSd9nWw6qu6sG74mqv1TPHmi2",
+      "name": "Анастасия",
+      "nickname": "AnastasiAGameMaker",
+      "phone": "80296988897",
+      "gender": "female",
+      "avatar": "uploads/1234567890.jpg",
+      "id": 1
+    },
+    {
+      "email": "ccxdh@mail.ru",
+      "password": "$2a$10$C3F46vISki/xNFbigPqwn.skzRR1ZI3lGZ697dQJQYPP2CyKcKabi",
+      "confirmPassword": "&qFUIu#{ka%/R30@",
+      "name": "Анастасия",
+      "nickname": "Aksik",
+      "phone": "+375291234567",
+      "gender": "female",
+      "avatar": {},
+      "id": 2
+    },
+    {
+      "email": "rr@mail.ru",
+      "password": "$2a$10$.B9Rrvuq9Igg004XcUspQ.k/WcgENx/Oxx1v./KPoDfYLCK.bWuFC",
+      "confirmPassword": "FcYn]n!pmvP;jI@^",
+      "name": "Анастасия",
+      "nickname": "Aksik",
+      "phone": "+375291234567",
+      "gender": "female",
+      "avatar": {},
+      "id": 3
+    },
+    {
+      "email": "Hhhh@mail.ru",
+      "password": "$2a$10$2OIUh1nDVkYychH5LHbKYudrLHj.dvibGwL2LbPHCnXVBd9L191Qi",
+      "confirmPassword": "d#2;jisJnYt-yiV3",
+      "name": "Анастасия",
+      "nickname": "Aksik",
+      "phone": "+375296988897",
+      "gender": "female",
+      "avatar": {},
+      "id": 4
+    },
+    {
+      "email": "ollinikis@mail.ru",
+      "password": "$2a$10$zVYmMcQHRrHg8NS0N7XBP.F3GYw451lyo3opIo2X.XG1.kaNCO9DK",
+      "confirmPassword": "qweqwe",
+      "name": "Анастасия",
+      "nickname": "Aksik",
+      "phone": "+375296988897",
+      "gender": "female",
+      "avatar": {},
+      "id": 5
+    },
+    {
+      "email": "ollin@mail.ru",
+      "password": "$2a$10$jLj/qNvqkFfLuf.pVmE.BuQC.5rBhbxRJFyakZYGEDBS9Yv2Krk0C",
+      "confirmPassword": "Uz@rzIx[40Jk`^Mo",
+      "name": "Анастасия",
+      "nickname": "AnastasiAGameMaker",
+      "phone": "+375296988897",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "email": "oln@mail.ru",
+      "password": "$2a$10$0v5FGMkgz09aTPaUVQ5HLOB.5573LogMU1cmdghMgGuXH0MAEUqB.",
+      "confirmPassword": "4VL-jEn-nHt-QQC",
+      "name": "Анастасия",
+      "nickname": "AnastasiAGameMaker",
+      "phone": "+375296988897",
+      "gender": "male",
+      "id": 7
+    }
+  ]
+}
