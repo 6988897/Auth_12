@@ -108,7 +108,7 @@ if (document.getElementById('login-form')) {
   });
 }
 
-// Страница пользователя
+
 if (document.getElementById('user-email')) {
   const user = JSON.parse(localStorage.getItem('user'));
   if (user) {
